@@ -6,7 +6,7 @@ A comprehensive data analysis project on Electric Vehicle (EV) registrations, ex
 
 ## 📊 Project Overview
 
-This project analyzes an EV dataset with key information such as:
+This project analyzes an EV [dataset](https://www.kaggle.com/datasets/ricardobj/electric-vehicle-population) with key information such as:
 
 -   Vehicle make & model
     
